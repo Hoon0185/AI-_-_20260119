@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b5a14f-bd64-424e-b41b-42b20361e6df" name="변경" comment="ver 0.0.0 test01">
-      <change afterPath="$PROJECT_DIR$/KMJ/test_jupyer03.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainFolder/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PK/test_jupyer02.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SJH/test_jupyer01.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PK/test_jupyer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KHJ/test_jupyer04.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="35b5a14f-bd64-424e-b41b-42b20361e6df" name="변경" comment="ver 0.0.0 test01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +62,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "feature",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Code/AI-_-_20260119/KHJ",
     "node.js.detected.package.eslint": "true",
