@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35b5a14f-bd64-424e-b41b-42b20361e6df" name="변경" comment="ver 0.0.0 test01">
-      <change afterPath="$PROJECT_DIR$/KMJ/test_jupyer03.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainFolder/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PK/test_jupyer02.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SJH/test_jupyer01.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PK/test_jupyer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KHJ/test_jupyer04.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KHJ/test_jupyer04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KHJ/GUI_1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +37,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Hoon0185/AI-_-_20260119.git&quot;,
-    &quot;accountId&quot;: &quot;8495eca8-d7c4-448f-91b2-e052fdf73027&quot;
+    &quot;accountId&quot;: &quot;ad3f97e8-4b6d-4fae-8b31-9fb0b104ce6b&quot;
   }
 }</component>
   <component name="McpProjectServerCommands">
@@ -69,7 +65,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "feature",
+    "git-widget-placeholder": "feature에 #2개",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Code/AI-_-_20260119/KHJ",
     "node.js.detected.package.eslint": "true",
@@ -77,6 +73,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -94,7 +91,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
         <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
       </set>
     </attachedChunks>
