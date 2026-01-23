@@ -9,7 +9,8 @@ YOLOv8을 활용하여 자동 주행 로봇 프로토타입입니다.
 ## ▶️ 실행환경
 * **IDE**: Pycharm
 * **File**: .ipynb (Jupyter notebook)
-* **Interpreter** : uv (PythonProject)
+* **Interpreter**: uv (PythonProject)
+* **Model**: yolov8m.onnx (Conversion of yolov8.pt)
 
 ## 🗃️ 사용 Package 및 version 정보
 * cv2
