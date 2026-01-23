@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b5a14f-bd64-424e-b41b-42b20361e6df" name="변경" comment="ver 0.0.0 test01">
-      <change afterPath="$PROJECT_DIR$/PG/Class_N_Main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PG/Create_Map2json.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PG/READ_ME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PG/map_data.json" afterDir="false" />
+    <list default="true" id="35b5a14f-bd64-424e-b41b-42b20361e6df" name="변경" comment="ver 0.0.001 KMJ&#10;1. Data create&#10;2. Data train&#10;3. Data matches">
       <change beforePath="$PROJECT_DIR$/.idea/AI-_-_20260119.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI-_-_20260119.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PK/test_jupyer02.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KMJ/data.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/KMJ/data.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KMJ/test_jupyer03.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +36,12 @@
     &quot;assignee&quot;: &quot;Hoon0185&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Hoon0185/AI-_-_20260119.git&quot;,
-    &quot;accountId&quot;: &quot;78fce939-2bdf-493c-82f5-d63b07136c61&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Hoon0185/AI-_-_20260119.git",
+    "accountId": "78fce939-2bdf-493c-82f5-d63b07136c61"
   }
-}</component>
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -71,7 +69,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "feature",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Code/AI-_-_20260119/PG",
+    "last_opened_file_path": "C:/Code/AI-_-_20260119/KMJ",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -84,7 +82,6 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Code\AI-_-_20260119\PG" />
       <recent name="C:\Code\AI-_-_20260119\KMJ" />
       <recent name="C:\Code\AI-_-_20260119\KHJ" />
       <recent name="C:\Code\AI-_-_20260119\SJH" />
@@ -110,7 +107,7 @@
       <updated>1768806250553</updated>
       <workItem from="1768806251605" duration="673000" />
       <workItem from="1768873543953" duration="3283000" />
-      <workItem from="1769058413300" duration="3733000" />
+      <workItem from="1769058413300" duration="6503000" />
     </task>
     <task id="LOCAL-00001" summary="ver 0.0.0 test">
       <option name="closed" value="true" />
@@ -128,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768807579637</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ver 0.0.001 KMJ&#10;1. Data create&#10;2. Data train&#10;3. Data matches">
+      <option name="closed" value="true" />
+      <created>1769067804648</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769067804648</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +144,7 @@
     <MESSAGE value="test commit" />
     <MESSAGE value="ver 0.0.0 test" />
     <MESSAGE value="ver 0.0.0 test01" />
-    <option name="LAST_COMMIT_MESSAGE" value="ver 0.0.0 test01" />
+    <MESSAGE value="ver 0.0.001 KMJ&#10;1. Data create&#10;2. Data train&#10;3. Data matches" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver 0.0.001 KMJ&#10;1. Data create&#10;2. Data train&#10;3. Data matches" />
   </component>
 </project>
