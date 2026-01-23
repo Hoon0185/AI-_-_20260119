@@ -1,4 +1,4 @@
-path: C:/Code/PythonProject/REAL/yolo_dataset
+path: C:/Code/AI-_-_20260119/KMJ/yolo_dataset
 
 train: train/images
 val: val/images
