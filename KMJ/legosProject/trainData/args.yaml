@@ -1,7 +1,7 @@
 task: detect
 mode: train
 model: yolov8s.pt
-data: C:/Code/PythonProject/REAL/data.yaml
+data: C:/Users/User/Documents/GitHub/AI-_-_20260119/KMJ/data.yaml
 epochs: 10
 time: null
 patience: 100
@@ -125,4 +125,4 @@ augmentations:
 - '''a'''
 - '''m'''
 - '''l'''
-save_dir: C:\Code\PythonProject\REAL\legosProject\trainData
+save_dir: C:\Users\User\Documents\GitHub\AI-_-_20260119\KMJ\legosProject\trainData

@@ -1,4 +1,4 @@
-path: C:/Code/AI-_-_20260119/KMJ/yolo_dataset
+path: C:/Users/User/Documents/GitHub/AI-_-_20260119/KMJ/yolo_dataset
 
 train: train/images
 val: val/images
