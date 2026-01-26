@@ -1,0 +1,12 @@
+path: C:/Users/User/Documents/GitHub/AI-_-_20260119/KMJ/yolo_dataset
+
+train: train/images
+val: val/images
+test : test/images
+
+nc: 3 # 모델이 구분해야 할 클래스의 개수
+
+names:
+  0: circle
+  1: cross
+  2: person
