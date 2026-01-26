@@ -13,7 +13,7 @@ YOLOv8을 활용하여 자동 주행 로봇 프로토타입입니다.
 * **Model**: yolov8m.onnx (Conversion of yolov8.pt)
 
 ## 🗃️ 사용 Package 및 version 정보
-* cv2
+* cv2 (ver 4.12.0)
 * time
 * json
 * numpy (ver 2.2.6)
