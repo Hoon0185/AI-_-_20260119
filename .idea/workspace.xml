@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b5a14f-bd64-424e-b41b-42b20361e6df" name="변경" comment="ver 0.0.0 test01">
+    <list default="true" id="35b5a14f-bd64-424e-b41b-42b20361e6df" name="변경" comment="ver 0.0.007 PG&#10;Update code &amp; add weight file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KHJ/test_jupyer04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KHJ/GUI_1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="PG &lt;pg7728@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
@@ -37,7 +41,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Hoon0185/AI-_-_20260119.git&quot;,
-    &quot;accountId&quot;: &quot;ad3f97e8-4b6d-4fae-8b31-9fb0b104ce6b&quot;
+    &quot;accountId&quot;: &quot;78fce939-2bdf-493c-82f5-d63b07136c61&quot;
   }
 }</component>
   <component name="McpProjectServerCommands">
@@ -60,28 +64,30 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "feature에 #2개",
+    "git-widget-placeholder": "feature",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Code/AI-_-_20260119/KHJ",
+    "last_opened_file_path": "C:/Code/AI-_-_20260119/PG",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "vcs.Git",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Code\AI-_-_20260119\KHJ" />
+      <recent name="C:\Code\AI-_-_20260119\PG" />
       <recent name="C:\Code\AI-_-_20260119\KMJ" />
+      <recent name="C:\Code\AI-_-_20260119\KHJ" />
       <recent name="C:\Code\AI-_-_20260119\SJH" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -91,6 +97,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
         <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
       </set>
     </attachedChunks>
@@ -104,6 +111,7 @@
       <updated>1768806250553</updated>
       <workItem from="1768806251605" duration="673000" />
       <workItem from="1768873543953" duration="3283000" />
+      <workItem from="1769058413300" duration="6503000" />
     </task>
     <task id="LOCAL-00001" summary="ver 0.0.0 test">
       <option name="closed" value="true" />
@@ -121,7 +129,47 @@
       <option name="project" value="LOCAL" />
       <updated>1768807579637</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ver 0.0.001 KMJ&#10;1. Data create&#10;2. Data train&#10;3. Data matches">
+      <option name="closed" value="true" />
+      <created>1769067804648</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769067804648</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ver 0.0.007 PG&#10;Update code &amp; add weight file">
+      <option name="closed" value="true" />
+      <created>1769139798026</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769139798026</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ver 0.0.007 PG&#10;Update code &amp; add weight file">
+      <option name="closed" value="true" />
+      <created>1769139878896</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769139878896</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ver 0.0.007 PG&#10;Update code &amp; add weight file">
+      <option name="closed" value="true" />
+      <created>1769139914273</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1769139914273</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ver 0.0.007 PG&#10;Update code &amp; add weight file">
+      <option name="closed" value="true" />
+      <created>1769139926065</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1769139926065</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +180,9 @@
     <MESSAGE value="test commit" />
     <MESSAGE value="ver 0.0.0 test" />
     <MESSAGE value="ver 0.0.0 test01" />
-    <option name="LAST_COMMIT_MESSAGE" value="ver 0.0.0 test01" />
+    <MESSAGE value="ver 0.0.001 KMJ&#10;1. Data create&#10;2. Data train&#10;3. Data matches" />
+    <MESSAGE value="ver 0.0.005 SJH gitignore&#10;&#10;.idea/workspace.xml -&gt; git ignore add" />
+    <MESSAGE value="ver 0.0.007 PG&#10;Update code &amp; add weight file" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver 0.0.007 PG&#10;Update code &amp; add weight file" />
   </component>
 </project>
