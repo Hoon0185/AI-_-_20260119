@@ -1,6 +1,6 @@
 task: detect
 mode: train
-model: yolov8m.pt
+model: yolov8s.pt
 data: C:/Code/PythonProject/TEST/data.yaml
 epochs: 10
 time: null

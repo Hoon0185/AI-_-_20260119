@@ -4,7 +4,9 @@ train: train/images
 val: val/images
 test : test/images
 
-nc: 1 # 모델이 구분해야 할 클래스의 개수
+nc: 3 # 모델이 구분해야 할 클래스의 개수
 
 names:
-  0: circle
+  0: sparkle
+  1: roundSparkle
+  2: person
